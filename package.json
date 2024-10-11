@@ -28,9 +28,9 @@
     "Data Augmentation"
   ],
   "dependencies": {
-    "@types/app-root-path": "^1.2.4",
+    "@types/app-root-path": "^1.2.8",
     "@types/is-image": "^3.0.0",
-    "app-root-path": "^3.0.0",
+    "app-root-path": "^3.1.0",
     "is-image": "^3.0.0",
     "path": "^0.12.7",
     "sharp": "^0.33.5"
